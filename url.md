@@ -1,1 +1,1 @@
-https://65557132.ap.ngrok.io
+http://65557132.ap.ngrok.io
