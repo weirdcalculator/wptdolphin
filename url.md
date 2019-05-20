@@ -1,1 +1,1 @@
-http://dffd9726.ap.ngrok.io
+http://40452758.ap.ngrok.io
