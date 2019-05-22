@@ -1,1 +1,1 @@
-http://50eb2605.ap.ngrok.io
+http://90c643f1.ap.ngrok.io
