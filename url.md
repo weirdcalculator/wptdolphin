@@ -1,1 +1,1 @@
-http://c3856850.ap.ngrok.io
+http://ecc15350.ap.ngrok.io
