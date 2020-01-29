@@ -1,1 +1,1 @@
-http://ad458faf.ap.ngrok.io
+http://debea10c.ap.ngrok.io
