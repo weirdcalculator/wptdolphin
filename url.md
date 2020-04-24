@@ -1,1 +1,1 @@
-http://ca959415.ap.ngrok.io
+http://6f10e7f8.ap.ngrok.io
