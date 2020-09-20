@@ -1,1 +1,1 @@
-http://3d593eb796a4.ap.ngrok.io
+http://af3a8bc3457f.ap.ngrok.io
