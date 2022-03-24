@@ -1,1 +1,1 @@
-http://7d73-49-124-195-8.ap.ngrok.io
+http://cc39-49-124-195-8.ap.ngrok.io
