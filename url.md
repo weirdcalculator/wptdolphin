@@ -1,1 +1,1 @@
-http://f3c2-49-124-195-8.ap.ngrok.io
+http://bd10-49-124-195-8.ap.ngrok.io
