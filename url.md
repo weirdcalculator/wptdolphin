@@ -1,1 +1,1 @@
-http://d1b0-49-124-195-8.ap.ngrok.io
+http://afcc-49-124-195-8.ap.ngrok.io
