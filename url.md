@@ -1,1 +1,1 @@
-http://6249-49-124-195-8.ap.ngrok.io
+http://ead3-49-124-195-8.ap.ngrok.io
