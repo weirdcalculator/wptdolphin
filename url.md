@@ -1,1 +1,1 @@
-http://7397-49-124-195-8.ngrok-free.app
+http://ebd6-49-124-195-8.ngrok-free.app
