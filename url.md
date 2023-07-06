@@ -1,1 +1,1 @@
-http://ad60-49-124-195-8.ngrok-free.app
+http://edba-49-124-195-8.ngrok-free.app
