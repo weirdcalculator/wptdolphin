@@ -1,1 +1,1 @@
-http://3dd5-49-124-195-8.ngrok-free.app
+http://306c-49-124-195-8.ngrok-free.app
