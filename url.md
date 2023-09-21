@@ -1,1 +1,1 @@
-http://0924-49-124-195-8.ngrok-free.app
+http://2fc6-49-124-195-8.ngrok-free.app
