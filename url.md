@@ -1,1 +1,1 @@
-http://6bb4-49-124-195-8.ngrok-free.app
+http://600a-49-124-195-8.ngrok-free.app
