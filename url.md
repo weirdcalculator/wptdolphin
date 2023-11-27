@@ -1,1 +1,1 @@
-http://0480-49-124-195-8.ngrok-free.app
+http://2502-49-124-195-8.ngrok-free.app
